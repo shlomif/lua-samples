@@ -1,0 +1,12 @@
+Sample Lua Programs
+===================
+Shlomi Fish <shlomif@cpan.org>
+:Date: 2024-06-28
+:Revision: $Id$
+
+[id="intro"]
+Introduction
+------------
+
+Some sample lua programs by me (= Shlomi Fish) back when I tried to learn
+a little Lua. MITL.
